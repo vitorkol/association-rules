@@ -33,4 +33,4 @@ Para esse projeto, optei por utilizar o aplicativo web Jupyter Notebook com Cola
 
 # Dataset
 Utilizamos o dataset diabets disponibilizado em:</br>
-[Dataset diabets] → Para fins didáticos foi criar um arquivo do tipo .csv contendo 4 tipos de produtos, a mesma se encontra disponível na estrutura do projeto.
+[Dataset diabetes] → Para fins didáticos foi criar um arquivo do tipo .csv contendo 4 tipos de produtos, a mesma se encontra disponível na estrutura do projeto.
